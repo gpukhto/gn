@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bahij Palatino Sans Arabic';
+    src: url('BahijPalatinoSansArabic-Bold.woff2') format('woff2'),
+        url('BahijPalatinoSansArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
